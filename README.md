@@ -1,2 +1,2 @@
-# whatsapp-bot
-Bot para mandar mensagens para várias pessoas
+# Whatsapp Bot
+Bot para mandar mensagens para várias pessoas no whatsapp
